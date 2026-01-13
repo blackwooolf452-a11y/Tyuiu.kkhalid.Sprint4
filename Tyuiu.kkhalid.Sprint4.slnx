@@ -11,4 +11,7 @@
   <Project Path="Tyuiu.kkhalid.Sprint4.Task3.V17.Lib/Tyuiu.kkhalid.Sprint4.Task3.V17.Lib.csproj" />
   <Project Path="Tyuiu.kkhalid.Sprint4.Task3.V17.Test/Tyuiu.kkhalid.Sprint4.Task3.V17.Test.csproj" />
   <Project Path="Tyuiu.kkhalid.Sprint4.Task3.V17/Tyuiu.kkhalid.Sprint4.Task3.V17.csproj" />
+  <Project Path="Tyuiu.kkhalid.Sprint4.Task4.V30.Lib/Tyuiu.kkhalid.Sprint4.Task4.V30.Lib.csproj" />
+  <Project Path="Tyuiu.kkhalid.Sprint4.Task4.V30.Test/Tyuiu.kkhalid.Sprint4.Task4.V30.Test.csproj" />
+  <Project Path="Tyuiu.kkhalid.Sprint4.Task4.V30/Tyuiu.kkhalid.Sprint4.Task4.V30.csproj" />
 </Solution>
